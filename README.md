@@ -1,4 +1,4 @@
-# Trying kata challenges
+# Trying kata challenges :bulb:
 It's my attempts of practicing and learning with the katas challenges.
 
 More info:
