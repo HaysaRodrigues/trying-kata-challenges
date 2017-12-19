@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppleTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-11-28T14:48:48" hostname="Haysa-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="filterIfHasSpecialPriceOrUnitPriceByItem_ShouldSetTheUnitValueZero_IfAmountIsZero" classname="AppleTest" time="0.001"/>
+  <testcase name="filterIfHasSpecialPriceOrUnitPriceByItem_ShouldSetTheUnitValueOneAndFiftyFiveCents_WhenAmountIsMoreThanThree" classname="AppleTest" time="0.001"/>
+  <testcase name="filterIfHasSpecialPriceOrUnitPriceByItem_ShouldSetTheUnitValueFiftyCents_WhenAmountIsMoreThanTen" classname="AppleTest" time="0.0"/>
+  <testcase name="filterIfHasSpecialPriceOrUnitPriceByItem_ShouldSetTheUnitValueOneAndEightyCents_WhenAmountIsLessThanTwo" classname="AppleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

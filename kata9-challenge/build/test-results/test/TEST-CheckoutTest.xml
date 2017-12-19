@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CheckoutTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-11-28T14:48:48" hostname="Haysa-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="checkout_MakeCheckoutReturnsPrices_WithInputInRandomOrder" classname="CheckoutTest" time="0.001"/>
+  <system-out><![CDATA[[ 
+ | Item: GRAPE Amount: 2 Total to pay: 2.7 | ,  
+ | Item: APPLE Amount: 2 Total to pay: 3.6 | ,  
+ | Item: ORANGE Amount: 2 Total to pay: 3.2 | ]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

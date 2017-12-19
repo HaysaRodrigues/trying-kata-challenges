@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CheckoutServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-11-28T14:48:48" hostname="Haysa-MacBook-Pro.local" time="0.016">
+  <properties/>
+  <testcase name="discoverItemToCalculatePrice_ShouldCalculateAndReturnWithGrapePrice_IfUserSentTheItemListAsGrape" classname="CheckoutServiceTest" time="0.001"/>
+  <testcase name="discoverItemToCalculatePrice_ShouldCalculateAndReturnWithOrangePrice_IfUserSentTheItemListAsOrange" classname="CheckoutServiceTest" time="0.0"/>
+  <testcase name="calculateTotalWithAmountAndUnitValue_ShouldReturnTotalZero_IfUserSentZeroInOneOfTwoParameters" classname="CheckoutServiceTest" time="0.0"/>
+  <testcase name="scanItemsFromHash_ShouldReturnNothing_WhenItsListMapHasNothingToScan" classname="CheckoutServiceTest" time="0.008"/>
+  <testcase name="scanItemsFromHash_ShouldReturnTheListMap_WhenItsListMapHasItemsWithItsKey" classname="CheckoutServiceTest" time="0.004"/>
+  <testcase name="calculateTotalWithAmountAndUnitValue_ShouldReturnTotalFifty_WhenSendAmout5AndUnitValue10" classname="CheckoutServiceTest" time="0.0"/>
+  <testcase name="extractHashMapToMakeCheckout_ShouldReturnTheListMap_WhenItsListMapHasItemsWithItsKey" classname="CheckoutServiceTest" time="0.0"/>
+  <testcase name="discoverItemToCalculatePrice_ShouldCalculateAndReturnWithApplePrice_IfUserSentTheItemListAsApple" classname="CheckoutServiceTest" time="0.001"/>
+  <system-out><![CDATA[[ 
+ | Item: APPLE Amount: 3 Total to pay: 4.65 | ]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

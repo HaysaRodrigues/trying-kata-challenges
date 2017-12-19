@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata09-challenge-scan.iml" filepath="$PROJECT_DIR$/.idea/modules/kata09-challenge-scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata09-challenge-scan_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kata09-challenge-scan_main.iml" group="kata09-challenge-scan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata09-challenge-scan_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kata09-challenge-scan_test.iml" group="kata09-challenge-scan" />
+    </modules>
+  </component>
+</project>
