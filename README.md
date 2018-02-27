@@ -7,5 +7,5 @@ It also has exercises from book [TDD na prática](https://www.amazon.com.br/TDD-
 
 1. [kata9-challenge](https://github.com/HaysaRodrigues/trying-kata-challenges/tree/master/kata9-challenge): with java + some unit tests.
 2. [tdd-challenge](https://github.com/HaysaRodrigues/trying-kata-challenges/tree/master/tdd-challenge): also with java + unit tests. Built while learning how to do TDD.
-If you want to try it by doing TDD, [here is the description of rules described in BDD](https://github.com/HaysaRodrigues/trying-kata-challenges/blob/master/tdd-challenge/src/test/resources/RG.feature).
+If you want references to try it by doing TDD, [here is the description of rules described in BDD](https://github.com/HaysaRodrigues/trying-kata-challenges/blob/master/tdd-challenge/src/test/resources/RG.feature).
 
